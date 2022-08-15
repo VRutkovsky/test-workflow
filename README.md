@@ -1,2 +1,2 @@
 # test-workflow
-Print Hello Worls from test worflow on PUSH
+Print Hello World from test worflow on PUSH
